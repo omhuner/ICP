@@ -1,6 +1,8 @@
+--ENG-- 
+(Turkish text is below )
 # PhoneBook Actor
---ENG--  (Turkish text is below )
-Hello! My name is Ömer Hüner. I am 25 years old and a recent graduate of Anadolu University's English Business Administration program. 
+
+   Hello! My name is Ömer Hüner. I am 25 years old and a recent graduate of Anadolu University's English Business Administration program. 
 I am currently learning data analysis and aim to pursue a career in this field. I am participating in various bootcamps and internships to improve myself. 
 This project was developed during a Web3-focused workshop as part of an internship at Patika.dev. Its purpose is to create a phonebook application and implement basic data and message management functionalities.
 
@@ -33,6 +35,7 @@ This project was developed during a Web3-focused workshop as part of an internsh
    ```motoko
    let message = await actor.getMessage("123-456-7890");
    ```
+
 
 --TÜRKÇE--
 # Telefon Rehberi
